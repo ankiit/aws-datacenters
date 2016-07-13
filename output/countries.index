@@ -9,7 +9,7 @@ AL;Albania;eu-central-1
 AM;Armenia;eu-central-1
 AN;Netherlands Antilles;us-east-1
 AO;Angola;eu-west-1
-AP;Asia/Pacific Region;ap-northeast-1
+AP;Asia/Pacific Region;ap-northeast-2
 AQ;Antarctica;ap-southeast-2
 AR;Argentina;sa-east-1
 AS;American Samoa;ap-southeast-2
@@ -47,7 +47,7 @@ CI;Cote d'Ivoire;eu-central-1
 CK;Cook Islands;ap-southeast-2
 CL;Chile;sa-east-1
 CM;Cameroon;eu-central-1
-CN;China;ap-northeast-1
+CN;China;ap-northeast-2
 CO;Colombia;sa-east-1
 CR;Costa Rica;us-east-1
 CU;Cuba;us-east-1
@@ -72,7 +72,7 @@ EU;Europe;eu-central-1
 FI;Finland;eu-central-1
 FJ;Fiji;ap-southeast-2
 FK;Falkland Islands (Malvinas);sa-east-1
-FM;Micronesia, Federated States of;ap-southeast-2
+FM;Micronesia, Federated States of;ap-northeast-1
 FO;Faroe Islands;eu-west-1
 FR;France;eu-central-1
 GA;Gabon;eu-central-1
@@ -94,7 +94,7 @@ GT;Guatemala;us-east-1
 GU;Guam;ap-northeast-1
 GW;Guinea-Bissau;eu-west-1
 GY;Guyana;sa-east-1
-HK;Hong Kong;ap-northeast-1
+HK;Hong Kong;ap-northeast-2
 HM;Heard Island and McDonald Islands;ap-southeast-2
 HN;Honduras;us-east-1
 HR;Croatia;eu-central-1
@@ -120,8 +120,8 @@ KH;Cambodia;ap-southeast-1
 KI;Kiribati;ap-southeast-2
 KM;Comoros;ap-south-1
 KN;Saint Kitts and Nevis;us-east-1
-KP;Korea, Democratic People's Republic of;ap-northeast-1
-KR;Korea, Republic of;ap-northeast-1
+KP;Korea, Democratic People's Republic of;ap-northeast-2
+KR;Korea, Republic of;ap-northeast-2
 KW;Kuwait;ap-south-1
 KY;Cayman Islands;us-east-1
 KZ;Kazakhstan;ap-south-1
@@ -141,12 +141,12 @@ MC;Monaco;eu-central-1
 MD;Moldova, Republic of;eu-central-1
 ME;Montenegro;eu-central-1
 MG;Madagascar;ap-south-1
-MH;Marshall Islands;ap-southeast-2
+MH;Marshall Islands;ap-northeast-1
 MK;Macedonia;eu-central-1
 ML;Mali;eu-central-1
 MM;Myanmar;ap-southeast-1
-MN;Mongolia;ap-northeast-1
-MO;Macao;ap-northeast-1
+MN;Mongolia;ap-northeast-2
+MO;Macao;ap-northeast-2
 MP;Northern Mariana Islands;ap-northeast-1
 MQ;Martinique;us-east-1
 MR;Mauritania;eu-west-1
@@ -190,7 +190,7 @@ QA;Qatar;ap-south-1
 RE;Reunion;ap-south-1
 RO;Romania;eu-central-1
 RS;Serbia;eu-central-1
-RU;Russian Federation;ap-northeast-1
+RU;Russian Federation;ap-northeast-2
 RW;Rwanda;ap-south-1
 SA;Saudi Arabia;ap-south-1
 SB;Solomon Islands;ap-southeast-2
@@ -225,7 +225,7 @@ TO;Tonga;ap-southeast-2
 TR;Turkey;eu-central-1
 TT;Trinidad and Tobago;us-east-1
 TV;Tuvalu;ap-southeast-2
-TW;Taiwan;ap-northeast-1
+TW;Taiwan;ap-northeast-2
 TZ;Tanzania, United Republic of;ap-south-1
 UA;Ukraine;eu-central-1
 UG;Uganda;ap-south-1
